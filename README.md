@@ -1,5 +1,5 @@
-# Machine Learning Algorithms
-
+# Predicting Airbnb prices with machine learning and location data
+ 
 Table of Contents
 Installation
 Project Motivation
